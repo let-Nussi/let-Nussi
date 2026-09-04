@@ -29,7 +29,7 @@ I am a passionate **Software Developer** focused on building interactive, high-p
 ### 🛠️ Tech Stack & Ecosystem
 
 #### 📱 Mobile Development
-![React Native](https://shields.io)
+![React Native](https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 ![Android](https://shields.io)
 ![iOS](https://shields.io)
 
