@@ -2,7 +2,7 @@
 
 ### A budding Javascript developer
 
-<p align="left"><img src="https://avatars.githubusercontent.com/u/177321876?v=4&size=8" alt="let-Nussi" /> </p>
+<p align="left"><img width=16 src="https://avatars.githubusercontent.com/u/177321876?v=4&size=8" alt="let-Nussi" /> </p>
 
 - 🔭 I'm currently working on **a JavaScript AI Voice Assistant**
 
