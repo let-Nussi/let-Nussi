@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=let-Nussi" alt="let-Nussi" /></a> </p>
 
-- 🔭 I'm currently working on **JavaScript AI Assistant**
+- 🔭 I'm currently working on **a JavaScript AI Voice Assistant**
 
-- 🌱 I'm currently learning **TypeScript and Python AI Training**
+- 🌱 I'm currently learning **TypeScript and Python/Pytorch**
 
 - 👯 I'm looking to collaborate on **open source projects**
 
-- 🤝 I'm looking for help with **learning python ai training**
+- 🤝 I'm looking for help with **learning python ai training with Pytorch**
 
 - 💬 Ask me about **NodeJS / React Native Mobile Development **
 
