@@ -12,7 +12,7 @@
 
 - 🤝 I'm looking for help with **learning python ai training with Pytorch**
 
-- 💬 Ask me about **NodeJS / React Native Mobile Development **
+- 💬 Ask me about **NodeJS / React Native Mobile Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
