@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Nussi! 👋
 
-<p align="left">
-  <img src="https://shields.io" alt="Pronouns" />
-  <img src="https://shields.io" alt="Language" />
-</p>
-
 I am a passionate **Software Developer** focused on building interactive, high-performance ecosystems across both the **Web** and **Mobile** platforms. I love turning complex problems into beautiful, robust user interfaces.
 
 ---
@@ -29,7 +24,7 @@ I am a passionate **Software Developer** focused on building interactive, high-p
 ### 🛠️ Tech Stack & Ecosystem
 
 #### 📱 Mobile Development
-![React Native](https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+![React Native](https://en.wikipedia.org/wiki/File:React_Logo_SVG.svg)
 ![Android](https://shields.io)
 ![iOS](https://shields.io)
 
