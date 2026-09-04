@@ -2,7 +2,7 @@
 
 ### A budding Javascript developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=let-Nussi" alt="let-Nussi" /></a> </p>
+<p align="left"><img src="https://avatars.githubusercontent.com/u/177321876?v=4&size=64" alt="let-Nussi" /> </p>
 
 - 🔭 I'm currently working on **a JavaScript AI Voice Assistant**
 
